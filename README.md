@@ -1,11 +1,8 @@
-<img width="100%" src="https://www.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_26195939.htm#query=programming%20banner&position=11&from_view=search">
+<img alt="programmer" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=996&t=st=1661971316~exp=1661971916~hmac=478a5242973f0f479499a02522a55f47777c71613cbd8236db4cf16a4b10924f">
 <h1 align="center">Hi 👋, I'm Malak Shaer</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakshaer&label=Profile%20views&color=0e75b6&style=flat" alt="malakshaer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malakshaer" alt="malakshaer" /></a> </p>
 
 - 📫 How to reach me **shaermk06@gmail.com**
 
