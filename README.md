@@ -1,4 +1,5 @@
-<img alt="programmer" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?<h1 align="center">Hi 👋, I'm Malak Shaer</h1>
+<img alt="programmer" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?>
+<h1 align="center">Hi 👋, I'm Malak Shaer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakshaer&label=Profile%20views&color=0e75b6&style=flat" alt="malakshaer" /> </p>
 
 - 📫 How to reach me **shaermk06@gmail.com**
